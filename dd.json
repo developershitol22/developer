@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "video_info": {
+    "video_url": "https://tikwm.com/video/123456789.mp4",
+    "thumbnail": "https://tikwm.com/thumbnail/123456789.jpg",
+    "duration": "15 sec",
+    "title": "Funny TikTok Video",
+    "author": {
+      "username": "@tiktok_user",
+      "profile_pic": "https://tikwm.com/profile/tiktok_user.jpg"
+    },
+    "music": {
+      "title": "Trending Song",
+      "url": "https://tikwm.com/music/123456.mp3"
+    }
+  },
+  "download": {
+    "quality": [
+      {
+        "type": "HD",
+        "url": "https://tikwm.com/video/hd/123456789.mp4"
+      },
+      {
+        "type": "SD",
+        "url": "https://tikwm.com/video/sd/123456789.mp4"
+      }
+    ]
+  }
+}
